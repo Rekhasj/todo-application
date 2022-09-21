@@ -1,0 +1,10 @@
+GET http://localhost:3000/todos/
+###
+
+GET  http://localhost:3000/todos/1/
+###
+
+POST http://localhost:3000/todos/
+###
+
+PUT http://localhost:3000/todos/1/
